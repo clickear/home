@@ -1,3 +1,8 @@
+
+# 笔记地址
+- [clickear/knowledge-garden](https://github.com/clickear/knowledge-garden) (Updated: 4d9c8ee635285acccbf82e212e4f9e0a9073456c)
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
